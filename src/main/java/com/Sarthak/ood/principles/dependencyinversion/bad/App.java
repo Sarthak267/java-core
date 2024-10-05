@@ -1,4 +1,4 @@
-package com.ramesh.ood.principles.dependencyinversion.bad;
+package com.sarthak.ood.principles.dependencyinversion.bad;
 
 import java.util.ArrayList;
 import java.util.List;
