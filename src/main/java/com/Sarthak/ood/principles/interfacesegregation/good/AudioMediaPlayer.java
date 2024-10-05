@@ -1,4 +1,4 @@
-package com.ramesh.ood.principles.interfacesegregation.good;
+package com.sarthak.ood.principles.interfacesegregation.good;
 
 /**
  *  Interface for playing audio.
